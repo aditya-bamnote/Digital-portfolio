@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio Website -  https://aditya-bamnote.github.io/Digital-portfolio/
 
 This portfolio website showcases the skills, projects, and background of Mohit Bankhele, a first-year engineering student at MIT Academy of Engineering. The website is designed to provide an overview of personal achievements, skills, and ways to get in touch.
 
@@ -37,8 +37,3 @@ The project consists of the following files:
 - Interactive elements such as a hamburger menu and contact form.
 - Sections dedicated to showcasing skills, projects, and personal information.
 
-## Author
-
-Mohit Bankhele  
-Email: mohitbankhele0717@gmail.com  
-Phone: +91 9309962509  
